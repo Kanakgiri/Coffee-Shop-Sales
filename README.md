@@ -10,7 +10,7 @@ The project aims to provide actionable insights that can drive strategic decisio
 
 ## About Data
 
-This dataset contains sales transactions from three different store locations respectively located in Astoria, Hell's Kitchen and Lower Manhattan. The data contains 11 columns and 149,117 rows:
+This dataset contains sales transactions from three different store locations respectively located in Astoria, Hell's Kitchen and Lower Manhattan. The data contains 11 columns and 149,117 rows.
 
 ## Tools Used
 
@@ -19,7 +19,7 @@ This dataset contains sales transactions from three different store locations re
 ## Business Questions Answered
 
 1. How do sales vary by day of the week?
-- Sales remain almost consistant on all weekdays but on weekends the sales drop especially on Saturdays.
+- Sales remain consistant on all weekdays but on weekends the sales drop especially on Saturdays.
 
 2. Are there any peak times for sales activity?
 - Morning hours from 8 AM to 10 AM the sales are on peak levels.
