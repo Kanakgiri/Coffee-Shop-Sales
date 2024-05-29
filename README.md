@@ -28,7 +28,7 @@ This dataset contains sales transactions from three different store locations re
 - Total sales across all three stores from January to June is $698,812.
 
 4. How do sales vary across different store locations?
-- Sales and Footfall remains same across all store locations.
+- Sales and Footfall remain same across all store locations.
 
 5. what is the average price/order per person?
 - Average price/order per person is $4.69.
@@ -40,4 +40,4 @@ This dataset contains sales transactions from three different store locations re
 - Coffee makes up about 39% of overall sales followed by Tea (28%), Drinking Chocolate (10%) and Bakery (12%).
 
 8. How do sales vary by Size distribution?
-- Customers ordered Large and Regular size most of the time.
+- Customers ordered Large and Regular sizes most of the time.
