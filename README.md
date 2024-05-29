@@ -14,7 +14,7 @@ This dataset contains sales transactions from three different store locations re
 
 ## Tools Used
 
-- Microsoft Excel
+- Microsoft Excel.
 
 ## Business Questions Answered
 
